@@ -2,6 +2,14 @@
 
 An automated, trustless payment routing dApp built on Soroban for ad-hoc freelance collectives.
 
+## CONTRACT ID : 
+CA7SDEPQEIQZBA6VVTSLB4NTBKAW2CGSIRTKGK66XHK4W5PPN43DRLPI
+
+## CONTRACT LINK :
+https://stellar.expert/explorer/testnet/contract/CA7SDEPQEIQZBA6VVTSLB4NTBKAW2CGSIRTKGK66XHK4W5PPN43DRLPI
+
+![PICTURE](stellar_bsm.png)
+
 ## Problem & Solution
 When independent freelancers team up for a single gig, dividing the client's lump-sum payment requires routing it through one person's bank account. This triggers unfair tax liabilities and trust issues. SplitSync solves this by allowing teams to deploy a temporary smart contract that acts as a single payment address. When the client pays, the contract immediately and automatically routes fractional USDC payments to all team members based on pre-set percentages.
 
